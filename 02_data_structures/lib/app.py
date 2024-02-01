@@ -94,7 +94,6 @@ pet_names = ["Tracker", "Boba", "Willow", "Winry", "Ziggy", "Leo", "Lucy", "Abe"
 
 #31. ✅ Delete the other pets age using the .pop 
 
-
 #32. ✅ Delete the last item in the pet dictionary using popitem()
 
 
